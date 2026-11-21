@@ -1,0 +1,16 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: URL
+Input: https://www.google.com
+Timestamp: 2026-11-21 12:09:44
+
+Detected indicators:
+  No predefined suspicious indicators found.
+
+Risk Score: 0/100
+Classification: LOW RISK
+SHA-256: ac6bb669e40e44a8d9f8f0c94dfc63734049dcf6219aac77f02edf94b9162c09
+Recommendation: No major predefined indicators were found; this does not guarantee safety.
+========================================

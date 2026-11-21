@@ -1,0 +1,16 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: MESSAGE
+Input: Congratulations!! You won 1 crore !!
+Timestamp: 2026-11-21 12:07:45
+
+Detected indicators:
+  [!] Prize/reward-related language detected (matched: won)
+
+Risk Score: 10/100
+Classification: LOW RISK
+SHA-256: e9ea6234437698e62d3c9d79b1c26dea9669a6094c0c92dbcb686bb7126fb948
+Recommendation: No major predefined indicators were found; this does not guarantee safety.
+========================================

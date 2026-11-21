@@ -1,0 +1,16 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: MESSAGE
+Input: You have won an audi pay 1000 for claiming
+Timestamp: 2026-11-21 12:13:55
+
+Detected indicators:
+  [!] Prize/reward-related language detected (matched: won)
+
+Risk Score: 10/100
+Classification: LOW RISK
+SHA-256: e63e45360e5b30088286d88ed50d7a83c0873fa13d94af24b653ad31b74fc8c6
+Recommendation: No major predefined indicators were found; this does not guarantee safety.
+========================================

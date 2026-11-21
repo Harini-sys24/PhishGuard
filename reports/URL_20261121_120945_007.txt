@@ -1,0 +1,17 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: URL
+Input: http://example.com/verify
+Timestamp: 2026-11-21 12:09:44
+
+Detected indicators:
+  [!] URL does not use HTTPS
+  [!] URL path contains login/verification-related word: verify
+
+Risk Score: 15/100
+Classification: LOW RISK
+SHA-256: 8903052c5e2052cc21137eafae21e96acf9b24290d68287c683e19250d9034be
+Recommendation: No major predefined indicators were found; this does not guarantee safety.
+========================================

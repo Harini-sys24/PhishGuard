@@ -1,0 +1,16 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: URL
+Input: https://abcd.com
+Timestamp: 2026-11-21 12:42:08
+
+Detected indicators:
+  No predefined suspicious indicators found.
+
+Risk Score: 0/100
+Classification: LOW RISK
+SHA-256: 1dc578c1a75c7fc36cfae9f83d3b19b6d1832643792836c385947ef4cd2d2e3a
+Recommendation: No major predefined indicators were found; this does not guarantee safety.
+========================================

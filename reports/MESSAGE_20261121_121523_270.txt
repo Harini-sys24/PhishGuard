@@ -1,0 +1,20 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: MESSAGE
+Input: You have won an audi car pay now http://192.168.1.10/login
+Timestamp: 2026-11-21 12:15:23
+
+Detected indicators:
+  [!] Prize/reward-related language detected (matched: won)
+  [!] Embedded URL detected (1)
+  [!] Embedded URL: Website uses an IPv4 address instead of a domain name
+  [!] Embedded URL: URL does not use HTTPS
+  [!] Embedded URL: URL path contains login/verification-related word: login
+
+Risk Score: 50/100
+Classification: MEDIUM RISK
+SHA-256: bd9229b6772fcb715cea925c364c76b8f6d5e1eed538188811ee0b0b788180d2
+Recommendation: Review the indicators and verify the sender or website independently.
+========================================

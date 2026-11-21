@@ -1,0 +1,18 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: URL
+Input: http://192.0.2.10/login
+Timestamp: 2026-11-21 12:06:37
+
+Detected indicators:
+  [!] Website uses an IPv4 address instead of a domain name
+  [!] URL does not use HTTPS
+  [!] URL path contains login/verification-related word: login
+
+Risk Score: 40/100
+Classification: MEDIUM RISK
+SHA-256: 0e5a312b9f3e448eb4cc87957c06cfee2ca2c744cffeb7b1a0bf46d5e40a1b63
+Recommendation: Review the indicators and verify the sender or website independently.
+========================================

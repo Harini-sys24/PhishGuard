@@ -1,0 +1,16 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: MESSAGE
+Input: abcd egfhd
+Timestamp: 2026-11-21 12:12:35
+
+Detected indicators:
+  No predefined suspicious indicators found.
+
+Risk Score: 0/100
+Classification: LOW RISK
+SHA-256: d8ca8034660a7735e19a94956a00737a9ad440ae276d25abebae2081076b61b2
+Recommendation: No major predefined indicators were found; this does not guarantee safety.
+========================================

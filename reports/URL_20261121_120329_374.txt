@@ -1,0 +1,16 @@
+
+========================================
+             PHISHGUARD REPORT
+========================================
+Type: URL
+Input: https://bit.ly/example
+Timestamp: 2026-11-21 12:03:29
+
+Detected indicators:
+  [!] URL uses a recognized URL-shortening domain
+
+Risk Score: 10/100
+Classification: LOW RISK
+SHA-256: 2b3a9eb6afe033f01758e82a5c6a0e9d89c61bb4ebba7a451385f2b107fcf14e
+Recommendation: No major predefined indicators were found; this does not guarantee safety.
+========================================
